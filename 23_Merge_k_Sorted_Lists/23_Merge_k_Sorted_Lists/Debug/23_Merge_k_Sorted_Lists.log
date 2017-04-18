@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\23_merge_k_sorted_lists\23_merge_k_sorted_lists\源.cpp(48): warning C4101: “l3”: 未引用的局部变量
+f:\softwareclass\leetcode\23_merge_k_sorted_lists\23_merge_k_sorted_lists\源.cpp(48): warning C4101: “l2”: 未引用的局部变量
+f:\softwareclass\leetcode\23_merge_k_sorted_lists\23_merge_k_sorted_lists\源.cpp(36): error C4700: 使用了未初始化的局部变量“Current”

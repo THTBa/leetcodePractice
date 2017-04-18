@@ -1,0 +1,7 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\5_longest_palindromic_substring\5_longest_palindromic_substring\源.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+f:\softwareclass\leetcode\5_longest_palindromic_substring\5_longest_palindromic_substring\源.cpp(12): warning C4018: “<=”: 有符号/无符号不匹配
+f:\softwareclass\leetcode\5_longest_palindromic_substring\5_longest_palindromic_substring\源.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+f:\softwareclass\leetcode\5_longest_palindromic_substring\5_longest_palindromic_substring\源.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  5_longest_palindromic_substring.vcxproj -> F:\softwareclass\leetcode\5_longest_palindromic_substring\Debug\5_longest_palindromic_substring.exe
+  5_longest_palindromic_substring.vcxproj -> F:\softwareclass\leetcode\5_longest_palindromic_substring\Debug\5_longest_palindromic_substring.pdb (Full PDB)

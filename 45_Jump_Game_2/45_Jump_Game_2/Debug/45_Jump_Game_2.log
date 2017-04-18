@@ -1,0 +1,5 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\45_jump_game_2\45_jump_game_2\源.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+f:\softwareclass\leetcode\45_jump_game_2\45_jump_game_2\源.cpp(23): warning C4018: “>=”: 有符号/无符号不匹配
+  45_Jump_Game_2.vcxproj -> F:\softwareclass\leetcode\45_Jump_Game_2\Debug\45_Jump_Game_2.exe
+  45_Jump_Game_2.vcxproj -> F:\softwareclass\leetcode\45_Jump_Game_2\Debug\45_Jump_Game_2.pdb (Full PDB)

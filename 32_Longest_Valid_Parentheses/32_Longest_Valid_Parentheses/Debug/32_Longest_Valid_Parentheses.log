@@ -1,0 +1,5 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\32_longest_valid_parentheses\32_longest_valid_parentheses\源.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+f:\softwareclass\leetcode\32_longest_valid_parentheses\32_longest_valid_parentheses\源.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+  32_Longest_Valid_Parentheses.vcxproj -> F:\softwareclass\leetcode\32_Longest_Valid_Parentheses\Debug\32_Longest_Valid_Parentheses.exe
+  32_Longest_Valid_Parentheses.vcxproj -> F:\softwareclass\leetcode\32_Longest_Valid_Parentheses\Debug\32_Longest_Valid_Parentheses.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\42_trapping_rain_water\42_trapping_rain_water\源.cpp(38): warning C4309: “初始化”: 截断常量值
+  42_Trapping_Rain_Water.vcxproj -> F:\softwareclass\leetcode\42_Trapping_Rain_Water\Debug\42_Trapping_Rain_Water.exe
+  42_Trapping_Rain_Water.vcxproj -> F:\softwareclass\leetcode\42_Trapping_Rain_Water\Debug\42_Trapping_Rain_Water.pdb (Full PDB)

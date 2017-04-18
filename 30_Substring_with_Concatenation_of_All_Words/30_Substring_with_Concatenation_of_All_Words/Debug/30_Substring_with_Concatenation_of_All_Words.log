@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\30_substring_with_concatenation_of_all_words\30_substring_with_concatenation_of_all_words\源.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  30_Substring_with_Concatenation_of_All_Words.vcxproj -> F:\softwareclass\leetcode\30_Substring_with_Concatenation_of_All_Words\Debug\30_Substring_with_Concatenation_of_All_Words.exe
+  30_Substring_with_Concatenation_of_All_Words.vcxproj -> F:\softwareclass\leetcode\30_Substring_with_Concatenation_of_All_Words\Debug\30_Substring_with_Concatenation_of_All_Words.pdb (Full PDB)

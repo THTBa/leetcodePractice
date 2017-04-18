@@ -1,0 +1,15 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(16): warning C4305: “参数”: 从“int”到“char”截断
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(16): warning C4309: “参数”: 截断常量值
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(24): warning C4305: “参数”: 从“int”到“char”截断
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(24): warning C4309: “参数”: 截断常量值
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(33): warning C4305: “参数”: 从“int”到“char”截断
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(33): warning C4309: “参数”: 截断常量值
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(41): warning C4305: “参数”: 从“int”到“char”截断
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(41): warning C4309: “参数”: 截断常量值
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(50): warning C4305: “参数”: 从“int”到“char”截断
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(50): warning C4309: “参数”: 截断常量值
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(58): warning C4305: “参数”: 从“int”到“char”截断
+f:\softwareclass\leetcode\12_integer_to_roman\12_integer_to_roman\源.cpp(58): warning C4309: “参数”: 截断常量值
+  12_Integer_to_Roman.vcxproj -> F:\softwareclass\leetcode\12_Integer_to_Roman\Debug\12_Integer_to_Roman.exe
+  12_Integer_to_Roman.vcxproj -> F:\softwareclass\leetcode\12_Integer_to_Roman\Debug\12_Integer_to_Roman.pdb (Full PDB)

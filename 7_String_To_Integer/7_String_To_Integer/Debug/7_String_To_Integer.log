@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\softwareclass\leetcode\7_string_to_integer\7_string_to_integer\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  7_String_To_Integer.vcxproj -> F:\softwareclass\leetcode\7_String_To_Integer\Debug\7_String_To_Integer.exe
+  7_String_To_Integer.vcxproj -> F:\softwareclass\leetcode\7_String_To_Integer\Debug\7_String_To_Integer.pdb (Full PDB)
